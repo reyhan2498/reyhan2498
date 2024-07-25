@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Reyhan Al-katiri, recently graduated from Auckland University of Technology (AUT) with a degree in bacholars , where I honed my skills in software engineering and gained a solid foundation in both theoretical knowledge and practical application. I'm passionate and creative a software developer with a knack for solving complex problems and a love for innovative solutions.
+
 <!--
 **reyhan2498/reyhan2498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
