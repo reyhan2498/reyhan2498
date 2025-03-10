@@ -13,17 +13,13 @@
 - Contributing to **open-source** projects to sharpen my skills and help the dev community  
 - Enhancing my **portfolio** with modern and in-demand tech  
 
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/reyhan-al-katiri/)  
+[![Portfolio](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://reyhan2498.github.io/index.html)  
 
-📫 Connect with Me
+✉️ **Email:** reyhan2498@gmail.com  
 
-💼 LinkedIn
-
-📝 https://reyhan2498.github.io/index.html
-
-✉️ Reach me at: reyhan2498@gmail.com
-
-🚀 Let's build something amazing together!
-
+🚀 **Let's build something amazing together!**  
 <!--
 **reyhan2498/reyhan2498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
