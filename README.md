@@ -4,15 +4,10 @@
 
 
 🔹 About Me
-
 💻 Passionate about building web and mobile applications that solve real-world problems
-
 🌐 Experienced in JavaScript, TypeScript, PHP, SQL, C#, and frameworks like React, Node.js, and .NET
-
 🛠️ Worked on full-stack web development, automation (RPA), and data pipelines
-
 📱 Currently learning Flutter by building my first mobile app – a Daily Habits Tracker
-
 🎯 Open to collaborating on exciting projects and new opportunities in software development
 
 
