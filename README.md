@@ -1,5 +1,7 @@
 👋 Hi, I'm Reyhan Al-Katiri!
+
 🚀 Full Stack Developer | Web & Mobile Enthusiast | Automation 
+
 
 🔹 About Me
 
@@ -13,15 +15,25 @@
 
 🎯 Open to collaborating on exciting projects and new opportunities in software development
 
+
+
 📌 What I'm Working On
+
 Daily Habits Tracker App – My first Flutter mobile project (documenting my journey!)
+
 Contributing to open-source projects to sharpen my skills and help the dev community
+
 Enhancing my portfolio with modern and in-demand tech
 
+
 📫 Connect with Me
+
 💼 LinkedIn
+
 📝 https://reyhan2498.github.io/index.html
+
 ✉️ Reach me at: reyhan2498@gmail.com
+
 🚀 Let's build something amazing together!
 
 <!--
